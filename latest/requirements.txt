@@ -1,0 +1,9 @@
+langchain
+pydantic
+tiktoken
+boto3
+numpy
+pandas
+python-telegram-bot
+python-docx
+scipy
